@@ -1,4 +1,4 @@
-body {
+ body {
   background-color: aqua;
    }
 
@@ -21,4 +21,9 @@ body {
 
  #red-border {
      border: 10px solid red;
+ }
+
+ .black-bg {
+ background-color: black;
+
  }
