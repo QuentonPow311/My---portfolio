@@ -1,0 +1,24 @@
+body {
+  background-color: aqua;
+   }
+
+   div {
+   background-color: rebeccapurple;
+   height: 300px;
+      }
+
+   h1 { 
+  color: white;
+   }
+
+   .BLUE-BG {
+    background-color: blue;
+   }
+
+   .orange-text {
+  color: orange;
+ }
+
+ #red-border {
+     border: 10px solid red;
+ }
